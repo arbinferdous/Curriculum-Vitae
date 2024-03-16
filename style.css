@@ -1,0 +1,158 @@
+*{
+    padding: 0% auto;
+    margin: 0% auto;
+    
+}
+a{
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+
+section{
+    background-color: black;
+    
+
+}
+.main{
+    display: flex;
+    background-color: rgb(227,234,220);
+    height: 100vh;
+    width: 800px;
+}
+.right{
+    background-color: aliceblue;
+    width: 500px;
+    height: 992px;
+    position: relative;
+    top: 2rem;
+    right: 2rem;
+   
+
+
+}
+.left{
+    height: 850px;
+    width: 300px;
+    background-color: rgb(227,234,220);
+    position: relative;
+    top: 3rem;
+    
+
+}
+.image img{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    border: 5px solid white;
+    margin-left: 48px;
+
+}
+.txt p{
+    font-family: "Martel Sans", sans-serif;;
+    margin-left: 48px;
+}
+.second p{
+    font-family: "Martel Sans", sans-serif;;
+    margin-left: 60px;
+}
+.icon p{
+    margin-left: 42px;
+}
+
+.icon::after{
+    content: "";
+    display: block;
+    height: 2px;
+    width: 180px;
+    background-color: black;
+}
+.icon::after{
+    margin-top: 20px;
+    margin-left: 40px; 
+}
+.project{
+    font-family: "Martel Sans", sans-serif;;
+    margin-left: 42px;  
+}
+.project::after{
+    content: "";
+    display: block;
+    height: 2px;
+    width: 180px;
+    background-color: black; 
+}
+.coding{
+    margin-left: 42px;
+    font-family: "Martel Sans", sans-serif;;
+}
+.coding p{
+    font-family: "Martel Sans", sans-serif;;
+}
+.first{
+    font-size: 40px;
+    margin-left: 35px;
+    margin-top: 30px;
+    font-family: "Martel Sans", sans-serif;;
+}
+.second{
+    margin-left: -20px;
+    margin-top: 30px;
+    font-family: "Martel Sans", sans-serif;;
+}
+.profile{
+    font-size: 20px;
+    font-family: "Martel Sans", sans-serif;;
+    margin-left: 38px;
+}
+.content{
+    font-size: 15px;
+    font-family: "Martel Sans", sans-serif;;
+    margin-left: 37px;
+}
+.ui{
+    font-size: 20px;
+    font-family: "Martel Sans", sans-serif;;
+    margin-left: 35px; 
+}
+.front{
+    margin-left: 35px;
+    font-family: "Martel Sans", sans-serif;;
+    font-size: 18px  
+}
+.items{
+    font-family: "Martel Sans", sans-serif;;
+    font-size: 15px;
+    margin-left: -3px;
+}
+.last{
+    margin-left: 35px;
+    margin-top: 30px;
+    font-family: "Martel Sans", sans-serif;;
+}
+.finish{
+    font-family: "Martel Sans", sans-serif;; 
+    margin-left: -3px;
+}
+.finish::after{
+    content: "";
+    display: block;
+    background-color: black;
+    height: 2px;
+    width: 440px;
+    margin-left: 40px;
+}
+.final{
+    font-size: 18px;
+    font-family: "Martel Sans", sans-serif;; 
+    margin-left: 35px;
+}
+.in{
+    font-family: "Martel Sans", sans-serif;; 
+    font-size: 15px;
+    margin-left: 35px;
+}
+.emmet{
+    font-family: "Martel Sans", sans-serif;; 
+}
