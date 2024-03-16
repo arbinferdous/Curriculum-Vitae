@@ -1,6 +1,7 @@
 *{
     padding: 0% auto;
     margin: 0% auto;
+    font-size: 10px;
     
 }
 a{
@@ -19,12 +20,12 @@ section{
     display: flex;
     background-color: rgb(227,234,220);
     height: 100vh;
-    width: 800px;
+    width: 630px;
 }
 .right{
     background-color: aliceblue;
     width: 500px;
-    height: 992px;
+    height: 700px;
     position: relative;
     top: 2rem;
     right: 2rem;
@@ -33,8 +34,8 @@ section{
 
 }
 .left{
-    height: 850px;
-    width: 300px;
+    height: 550px;
+    width: 500px;
     background-color: rgb(227,234,220);
     position: relative;
     top: 3rem;
@@ -46,19 +47,19 @@ section{
     width: 150px;
     border-radius: 150px;
     border: 5px solid white;
-    margin-left: 48px;
+    margin-left: 35px;
 
 }
 .txt p{
     font-family: "Martel Sans", sans-serif;;
-    margin-left: 48px;
+    margin-left: 35px;
 }
 .second p{
     font-family: "Martel Sans", sans-serif;;
-    margin-left: 60px;
+    margin-left: 55px;
 }
 .icon p{
-    margin-left: 42px;
+    margin-left: 35px;
 }
 
 .icon::after{
@@ -70,11 +71,11 @@ section{
 }
 .icon::after{
     margin-top: 20px;
-    margin-left: 40px; 
+    margin-left: 35px; 
 }
 .project{
     font-family: "Martel Sans", sans-serif;;
-    margin-left: 42px;  
+    margin-left: 35px;  
 }
 .project::after{
     content: "";
@@ -84,14 +85,14 @@ section{
     background-color: black; 
 }
 .coding{
-    margin-left: 42px;
+    margin-left: 35px;
     font-family: "Martel Sans", sans-serif;;
 }
 .coding p{
     font-family: "Martel Sans", sans-serif;;
 }
 .first{
-    font-size: 40px;
+    font-size: 60px;
     margin-left: 35px;
     margin-top: 30px;
     font-family: "Martel Sans", sans-serif;;
@@ -140,7 +141,7 @@ section{
     display: block;
     background-color: black;
     height: 2px;
-    width: 440px;
+    width: 250px;
     margin-left: 40px;
 }
 .final{
